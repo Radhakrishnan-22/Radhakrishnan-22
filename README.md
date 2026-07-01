@@ -1,106 +1,181 @@
-# Hi 👋, I'm Radhakrishnan S
-
-### 💻 Computer Engineering Student
-### 📊 Data Science Enthusiast
-### 🚀 Aspiring Data Scientist | AI & Cloud Learner
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Data+Science+Enthusiast;AI+%26+Machine+Learning+Learner;Python+Developer;Future+Data+Scientist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Radhakrishnan%20S&fontSize=50&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Data%20Science%20%7C%20AI%20%7C%20ML%20%7C%20Cloud&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
-## 🙋 About Me
+<h1 align="center">Hi 👋, I'm Radhakrishnan S</h1>
 
-🎓 Computer Engineering student with a specialization in Data Science.
-
-💡 Passionate about solving real-world problems using AI, Machine Learning, and Data Analytics.
-
-🌱 Currently improving my programming, cloud computing, and data engineering skills.
-
-🎯 Career Goal:
-Become a Data Scientist and build intelligent, scalable applications.
-
-⚡ I enjoy learning new technologies and working on practical projects.
-
-## 🛠️ Tech Stack
+<h3 align="center">
+Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scientist
+</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,git,github,vscode&perline=5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Data+Science+Enthusiast;Python+Developer;AI+%26+Machine+Learning+Learner;Cloud+Computing+Explorer;Future+Data+Scientist" />
 </p>
-
-## 🧰 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,windows"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-## 📚 Currently Learning
+---
 
-- 🤖 Machine Learning
+# 🙋 About Me
+
+🎓 Computer Engineering student specializing in **Data Science**
+
+💻 Passionate about AI, Machine Learning, Data Analytics, Cloud Computing and Software Development.
+
+🌱 Currently learning advanced Python, Machine Learning, Data Engineering and Cloud technologies.
+
+🚀 Looking forward to internships, open-source contributions and exciting real-world projects.
+
+🎯 Goal: Become a **Data Scientist** and build intelligent applications that solve real-world problems.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</p>
+
+---
+
+# 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=windows"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
 - 📊 Data Analytics
 - ☁️ Cloud Computing
-- 🧠 Artificial Intelligence
 - 🐍 Advanced Python
 - 📈 Power BI
+- 🗄 SQL Optimization
 
-## 🚀 Featured Projects
+---
 
-🔹 AI-Based Billing System
+# 🚀 Featured Projects
 
-🔹 Smart Drain Monitoring System
+⭐ AI Automated Billing System
 
-🔹 Data Analytics Dashboard
+⭐ Smart Drain Monitoring System
 
-🔹 Machine Learning Projects
+⭐ Data Analytics Dashboard
 
-🔹 Python Automation Scripts
+⭐ Machine Learning Projects
 
-🔹 College Mini Projects
+⭐ Python Automation Scripts
 
-## 📈 Contribution Graph
+⭐ College Mini Projects
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Radhakrishnan-22&theme=github-dark)]
+---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
-![](https://github-readme-stats.vercel.app/api?username=Radhakrishnan-22&show_icons=true&theme=github_dark)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhakrishnan-22&layout=compact&theme=github_dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
 
-## 🔥 GitHub Streak
+</p>
 
-![](https://streak-stats.demolab.com?user=Radhakrishnan-22&theme=github-dark)
+---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINK)
+<p align="center">
 
-Email: radhakrishnansundaram07@gmail.com
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-Portfolio (Coming Soon)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-## 👀 Profile Visitors
+</p>
 
-![](https://komarev.com/ghpvc/?username=Radhakrishnan-22&label=Profile%20Views&color=0e75b6&style=flat)
+---
 
-## ☕ Fun Fact
+# 🔥 GitHub Streak
 
-💡 I believe every project teaches something new.
+<p align="center">
 
-🚀 Always curious to learn emerging technologies.
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
-🌍 Building my journey one commit at a time.
+</p>
 
-<!--
-**Radhakrishnan-22/Radhakrishnan-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🏆 GitHub Trophies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Fun Fact
+
+> 💡 "Every project is an opportunity to learn something new."
+
+> 🚀 "Consistency is more important than perfection."
+
+> 🌍 Building my journey one commit at a time.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
+
+</p>
