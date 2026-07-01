@@ -15,7 +15,7 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Radhakrishnan-22&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radhakrishnan-22&theme=github-dark"/>
 
 </p>
 
@@ -132,7 +132,7 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Radhakrishnan-22&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -142,7 +142,7 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Radhakrishnan-22&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -156,7 +156,7 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:radhakrishnansundaram07@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
