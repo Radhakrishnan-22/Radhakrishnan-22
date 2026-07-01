@@ -58,17 +58,17 @@ Become a Data Scientist and build intelligent, scalable applications.
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Radhakrishnan-22&theme=github-dark)]
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=Radhakrishnan-22&show_icons=true&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhakrishnan-22&layout=compact&theme=github_dark)
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+![](https://streak-stats.demolab.com?user=Radhakrishnan-22&theme=github-dark)
 
 ## 🌐 Connect With Me
 
@@ -80,7 +80,7 @@ Portfolio (Coming Soon)
 
 ## 👀 Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Radhakrishnan-22&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## ☕ Fun Fact
 
