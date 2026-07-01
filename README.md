@@ -74,7 +74,7 @@ Become a Data Scientist and build intelligent, scalable applications.
 
 [LinkedIn](https://linkedin.com/in/YOUR_LINK)
 
-Email: yourmail@gmail.com
+Email: radhakrishnansundaram07@gmail.com
 
 Portfolio (Coming Soon)
 
