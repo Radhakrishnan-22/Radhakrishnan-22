@@ -14,9 +14,6 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Data+Science+Enthusiast;Python+Developer;AI+%26+Machine+Learning+Learner;Cloud+Computing+Explorer;Future+Data+Scientist" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Radhakrishnan-22&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
