@@ -87,7 +87,7 @@ Computer Engineering Student • Data Science Enthusiast • Aspiring Data Scien
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Featured Projects
 
 ⭐ AI Automated Billing System
 
